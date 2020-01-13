@@ -1,2 +1,2 @@
-# treasure
-a place where i am finding more knowledge.
+# Treasure
+A place where I find more knowledge.
